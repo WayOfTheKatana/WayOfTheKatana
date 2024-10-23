@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning - Ahem! Everything relates to the problem
 - 💞️ I’m looking to collaborate on - Anyone
 - 📫 How to reach me - ShajidShafee.com
-- ⚡ Fun fact: I don't know! 
+- ⚡ Fun fact: You Know that I don't know
 
 <!---
 WayOfTheKatana/WayOfTheKatana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
