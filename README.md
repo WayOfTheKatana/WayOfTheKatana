@@ -1,2 +1,2 @@
 Frontend & Backend
-- React JS - Astro JS - Node JS - Express 
+- React JS <li> Astro JS </li> - Node JS - Express 
