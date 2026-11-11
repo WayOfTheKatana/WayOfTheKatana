@@ -1,2 +1,1 @@
-Frontend & Backend
-- React JS <li> Astro JS </li> - Node JS - Express 
+Building KozoHQ | Kozohq.com - Simple Project Management Tool for Everyone
